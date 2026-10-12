@@ -5,10 +5,11 @@ CTP Mercedes Norte · MsC. Ericka Hernández Mena · 2026
 
 ## Qué incluye
 
-- `index.html`: la plataforma completa en un solo archivo. Incluye el material de estudio de los 5 RA, los 7 cotidianos interactivos, las presentaciones y los cotidianos en Word para descargar, la tarea global, la antología, el glosario y el juego de cierre con certificado.
+- `index.html`: la plataforma completa en un solo archivo. Incluye el material de estudio de los 5 RA, los 7 cotidianos interactivos, las presentaciones y los cotidianos en Word para descargar, la tarea global, el proyecto de investigación, la antología, el glosario y el juego de cierre con certificado.
 - `recursos/presentaciones/`: las 5 presentaciones en PowerPoint (una por RA).
 - `recursos/cotidianos-word/`: los 5 cotidianos en Word para imprimir.
 - `recursos/Antologia_y_Glosario_Fundamentos.docx`: antología y glosario de la unidad.
+- `recursos/Proyecto_Ciberseguros_CR.docx`: guía del proyecto de investigación (infografía y video).
 
 La carpeta `recursos/` es una copia de respaldo para la docente: la plataforma ya trae todos esos archivos adentro y no depende de ella.
 
